@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw2IhLKlw1cRrga5zdFNGlta&ust=1674170057784000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCigp6g0vwCFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwl-eDy9XQbK7XWPJKbVyzzfG_n2ufSSmgFQ&usqp=CAU">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
